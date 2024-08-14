@@ -1,2 +1,2 @@
-# DesarrolloWEB.github.io
+# DesarrolloWEB
 Para los talleres de desarrollo web y móvil
