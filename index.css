@@ -12,4 +12,18 @@ body {
   padding: 20px;
   border: 5px solid black;
   margin: 15px;
+}  
+.responsive-box{
+  width: 100%;
+  padding: 20px;
+  background-color: rgb(33, 255, 129);
+
+}
+  
+@media (min-width: 760px) {
+  .responsive-box {
+    width: 50%;
+    background-color: blue;
+    
+  }
 }
